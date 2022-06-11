@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+
+body {
+	background-image: url(https://previews.123rf.com/images/marinamandarina/marinamandarina1708/marinamandarina170800003/84119394-de-vuelta-a-la-escuela-texturas-para-fondos-de-escritorio-rellenos-de-fondo-p%C3%A1gina-web-.jpg);
+	background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+    color: white;
+}
+#h2 {
+	color:  white;
+  	background: rgb(147, 5, 5, 0.2);
+}
+
+table {
+
+	margin-top: 2.0rem;
+	background: rgb(0, 128, 0);
+}
+.row {
+	color: white;
+}
+#tablas {
+  	background: rgb(147, 5, 5, 0.2);
+	color: white;
+    width: 760px;
+    padding: 10.0rem 10.0rem;
+    margin: auto;
+}
+#legend {
+  	background: rgb(147, 5, 5, 0.2);
+	color: white;
+    width: 760px;
+    padding: 2.0rem 2.0rem;
+    margin: auto;
+}
+#menulogin {
+	background: rgb(0, 128, 0);
+    width: 560px;
+    padding: 2.0rem 2.0rem;
+    margin: auto;
+    margin-top: 2.0rem;
+}
